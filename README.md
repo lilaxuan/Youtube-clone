@@ -1,4 +1,8 @@
 # Youtube-clone
+
+## Tech Stacks Used
+React, JavaScript, HTML/CSS, Node.js
+
 ## 1. Create a new React app
 ```
 npx create-react-app youtube_clone
